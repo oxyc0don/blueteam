@@ -1,2 +1,2 @@
 # blueteam
-[zeek](https://github.com/zeek/zeek.git)
+zeek https://github.com/zeek/zeek.git
